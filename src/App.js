@@ -1,4 +1,4 @@
-import BuyMeCoffee from './components/BuyMeCoffee';
+import BuyMeCoffee from './components/Main';
 
 function App() {
   return (

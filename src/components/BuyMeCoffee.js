@@ -3,7 +3,7 @@ import { ethers } from "ethers";
 import { contract_abi } from '../contracts/contract_abi';
 import { contract_address } from '../contracts/contract_address';
 
-function BuyMeCoffee() {
+function BuyMeCoffee1() {
     const { ethereum } = window;
     const [account, setAccount] = useState("");
     const [message, setMessage] = useState("");
@@ -92,4 +92,4 @@ function BuyMeCoffee() {
     );
 }
 
-export default BuyMeCoffee;
+export default BuyMeCoffee1;
