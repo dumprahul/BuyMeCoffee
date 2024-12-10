@@ -2,7 +2,7 @@ import React from 'react'
 
 function Deepak() {
   return (
-    <div>Deepak</div>
+    <div>Antony</div>
   )
 }
 
